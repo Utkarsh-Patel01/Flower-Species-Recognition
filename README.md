@@ -2,9 +2,6 @@
 
 A Convolutional Neural Network built **from scratch** (no transfer learning) in TensorFlow/Keras to classify flower photos into 5 species. The project's core idea is to **show overfitting in a baseline CNN, then reduce it** with data augmentation and Dropout, and compare the two models.
 
-> Course project: CA1, Deep Learning (individual project).
-
----
 
 ## Problem Statement
 

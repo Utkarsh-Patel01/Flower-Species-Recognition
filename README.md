@@ -161,6 +161,3 @@ Python, TensorFlow/Keras, NumPy, pandas, Matplotlib, Seaborn, scikit-learn, Goog
 - TensorFlow image classification tutorial: https://www.tensorflow.org/tutorials/images/classification
 - Keras documentation: https://keras.io/api/
 
-## Author
-
-Scott, Lovely Professional University
